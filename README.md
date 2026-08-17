@@ -1,0 +1,1 @@
+# Use-of-Arithmetic-Operator-in-SQL
